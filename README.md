@@ -1,4 +1,4 @@
-# Flare animation with Flutter || RIVE app animation
+# Flare animation with Flutter ||  app animation
 
 Click on the image below for YouTube tutorial.
 <div align="center">
